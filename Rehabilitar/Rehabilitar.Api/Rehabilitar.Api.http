@@ -1,0 +1,6 @@
+@Rehabilitar.Api_HostAddress = http://localhost:5232
+
+GET {{Rehabilitar.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

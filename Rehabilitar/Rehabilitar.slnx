@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Rehabilitar.Api/Rehabilitar.Api.csproj" />
+  <Project Path="Rehabilitar.Application/Rehabilitar.Application.csproj" />
+  <Project Path="Rehabilitar.Domain/Rehabilitar.Domain.csproj" />
+  <Project Path="Rehabilitar.Infrastructure/Rehabilitar.Infrastructure.csproj" />
+</Solution>
